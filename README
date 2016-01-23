@@ -1,3 +1,9 @@
+
+Few new functions.
+
+Event onClick, function what running when dropdown clicked
+Option onLoad - true\false, run or not onSelected function on first load.
+
 ddSlick
 Author: Prashant Chaudhary (http://designwithpc.com)
 Plugin Demo & Documentation: http://designwithpc.com/Plugins/ddSlick
@@ -12,6 +18,7 @@ Converts your HTML select element to ddSlick.
 Uses Minimum css and no external stylesheets to download.
 Supports callback functions on selection.
 Works as good even without images or description!
+
 
 Why is this plugin useful:
 
